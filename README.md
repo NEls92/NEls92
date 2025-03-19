@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @NEls92
-- 👀 I’m interested in learning...
-- 🌱 I’m currently learning currently how to code with python ...
-- 💞️ I’m looking to collaborate on any network-coding, osTicket resolutions and information to lead to a greater growth in knowledge ...
-- 📫 How to reach me https://discord.gg/mzXf3b4V ...
-- 😄 Pronouns: male...
-- ⚡ Fun fact: I am considered old womp womp womp ...
+<h1>Hi, I'm Nick, an <a href="https://www.linkedin.com/in/nicholas-els-97091a306"> IT Proffesional </a>@</h1>
 
-<!---
-NEls92/NEls92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> Information Technology Projects :</h2>
+
+-<b>osTicket (Help Desk Ticketing System) </b>
+- [osTicket: Prerequisites and installation] 
+- [osTicket: Post-Installation Configuration]
+- [osTicket: Lifecycle Examples]
+- <b>Microsoft Azure<b>
+- [Configure On-premises Active Directory within Azure VMs]
+- [Network Security Groups (NSGs) and inspecting Network Protocols]
+
+- <h2> Connect with me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/nicholas-els-97091a306/
