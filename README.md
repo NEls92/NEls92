@@ -9,7 +9,7 @@ This section highlights practical labs and projects that demonstrate real-world 
   Hands-on IT labs including virtual machines, osTicket ticketing system setup, user account management, permissions, and documentation.
 
 - 👋 **About Me**  
-  👉 https://github.com/yourusername/about-me  
+  👉 https://github.com/yourusername/NEls92/aboutme1  
   Overview of my background, technical interests, career goals, and work ethic.
 
 ---
