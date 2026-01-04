@@ -5,7 +5,7 @@ This section highlights practical labs and projects that demonstrate real-world 
 
 ### 📂 Repositories
 - 🔧 **CourseCareers IT Labs**  
-  👉 https://github.com/yourusername/coursecareers-it-labs  
+  👉 https://github.com/NEls92/cclabsresume1/blob/main/README.md
   Hands-on IT labs including virtual machines, osTicket ticketing system setup, user account management, permissions, and documentation.
 
 - 👋 **About Me**  
