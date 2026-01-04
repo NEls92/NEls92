@@ -21,3 +21,12 @@ This section highlights practical labs and projects that demonstrate real-world 
 - Created and managed user accounts with role-based permissions
 - Practiced real-world IT support workflows and documentation
 - Strengthened troubleshooting skills for hardware, software, and networking basics
+
+
+## 🔗 Connect With Me
+
+- **GitHub:** [NEls92](https://github.com/NEls92)  
+- **LinkedIn:** [Nicholas Els](https://www.linkedin.com/in/nicholas-els-97091a306/)  
+
+Feel free to reach out or follow me on either platform!
+****
