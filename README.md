@@ -10,7 +10,7 @@ This section highlights practical labs and projects that demonstrate real-world 
 
 - 👋 **About Me**  
   👉https://github.com/NEls92/aboutme1
-  Overview of my background, technical interests, career goals, and work ethic.
+  Overview of my background, employment, technical interests, career goals, and work ethic.
 
 ---
 
