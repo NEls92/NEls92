@@ -1,16 +1,55 @@
-<h1>Hi, I'm Nick, an <a href="https://www.linkedin.com/in/nicholas-els-97091a306/">IT Professional</a>☺</h1>
+# CourseCareers IT Labs
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+This repository documents hands-on labs and practical skills developed during the **CourseCareers Information Technology Program**.  
+The focus of this repo is to demonstrate real-world IT support tasks commonly performed in entry-level IT and Help Desk roles.
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/NEls92/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/NEls92/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+---
 
-<h2>🤳Connect with me:</h2>
+## 🔧 Skills Demonstrated
+- Virtual Machine (VM) creation and management
+- Ticketing system setup and usage (osTicket)
+- User account creation and permission management
+- General employee database management
+- Hardware and software troubleshooting fundamentals
+- IT documentation and workflow processes
 
-[<img align="left" alt="Nick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[linkedin]:https://www.linkedin.com/in/nicholas-els-97091a306/
+---
+
+## 🖥️ Virtual Machines
+- Created and managed virtual machines for IT lab environments
+- Practiced installing and configuring operating systems
+- Used VMs to simulate real-world troubleshooting scenarios
+
+---
+
+## 🎫 Ticketing System (osTicket)
+- Installed and configured **osTicket**
+- Created ticket queues, departments, and user roles
+- Practiced ticket intake, prioritization, escalation, and resolution
+- Simulated real-world IT support workflows
+
+---
+
+## 🗂️ User Accounts & Permissions
+- Created and managed employee user accounts
+- Assigned role-based permissions for teams
+- Maintained organized access control to resources
+
+---
+
+## 📊 General Employee Databases
+- Created and maintained general-purpose databases for employees
+- Organized user information for efficient access and management
+- Practiced basic data accuracy and consistency principles
+
+---
+
+## 📝 Documentation
+- Documented lab steps and troubleshooting processes
+- Focused on clear, repeatable IT documentation
+- Emphasized communication best practices for IT environments
+
+---
+
+## 🚀 Goal of This Repository
+This repository exists to demonstrate practical, job-ready IT skills and a strong understanding of entry-level IT support responsibilities.
