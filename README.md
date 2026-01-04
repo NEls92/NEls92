@@ -4,7 +4,7 @@ Hi, I’m **Nick**, an **Information Technology Specialist** with hands-on exper
 This section highlights practical labs and projects that demonstrate real-world IT support skills.
 
 ### 📂 Repositories
-- 🔧 **CourseCareers IT Labs**  
+- 🔧 **IT Support Capabilities**  
   👉 https://github.com/NEls92/cclabsresume1/blob/main/README.md
   Hands-on IT labs including virtual machines, osTicket ticketing system setup, user account management, permissions, and documentation.
 
