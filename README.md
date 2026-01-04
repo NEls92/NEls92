@@ -1,7 +1,6 @@
 ## CourseCareers — Information Technology
 
-Hi, I’m **Nick**, an **Information Technology Specialist** with hands-on experience gained through the CourseCareers IT Program.  
-This section highlights practical labs and projects that demonstrate real-world IT support skills.
+Hi, I’m **Nick**, an **Information Technology Specialist** 
 
 ### 📂 Repositories
 - 🔧 **IT Support Capabilities**  
