@@ -8,6 +8,12 @@ Hi, I’m **Nick**, an **Information Technology Specialist**
   Hands-on IT labs demonstrating **Active Directory domain setup**, Windows Server administration, virtual machines, user and admin account management.
 
 
+  Tier 1 & Tier 2 Help Desk Ticket Examples”
+Description / Link:
+Realistic IT support scenarios with documented steps and resolutions — perfect for help desk learning and portfolio purposes.
+View Repository → https://github.com/NEls92/ticket-simulation
+
+
 - 👋 **About Me**  
   👉https://github.com/NEls92/aboutme1
   Overview of my background, employment, technical interests, career goals, and work ethic.
