@@ -5,7 +5,7 @@ Hi, I’m **Nick**, an **Information Technology Specialist**
 ### 📂 Repositories
 - 🔧 **IT Support Capabilities**  
   👉 https://github.com/NEls92/cclabsresume1/blob/main/README.md  
-  Hands-on IT labs demonstrating **Active Directory domain setup**, Windows Server administration, virtual machines, user and admin account management, and ticketing systems.
+  Hands-on IT labs demonstrating **Active Directory domain setup**, Windows Server administration, virtual machines, user and admin account management.
 
 
 - 👋 **About Me**  
