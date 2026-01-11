@@ -4,8 +4,9 @@ Hi, I’m **Nick**, an **Information Technology Specialist**
 
 ### 📂 Repositories
 - 🔧 **IT Support Capabilities**  
-  👉 https://github.com/NEls92/cclabsresume1/blob/main/README.md
-  Hands-on IT labs including virtual machines, osTicket ticketing system setup, user account management, permissions, and documentation.
+  👉 https://github.com/NEls92/cclabsresume1/blob/main/README.md  
+  Hands-on IT labs demonstrating **Active Directory domain setup**, Windows Server administration, virtual machines, user and admin account management, and ticketing systems.
+
 
 - 👋 **About Me**  
   👉https://github.com/NEls92/aboutme1
