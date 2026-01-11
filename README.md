@@ -11,7 +11,8 @@ Hi, I’m **Nick**, an **Information Technology Specialist**
   Tier 1 & Tier 2 Help Desk Ticket Examples”
 Description / Link:
 Realistic IT support scenarios with documented steps and resolutions — perfect for help desk learning and portfolio purposes.
-View Repository → https://github.com/NEls92/ticket-simulation
+View Repository → 
+👉 https://github.com/NEls92/ticket-simulation
 
 
 - 👋 **About Me**  
