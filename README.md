@@ -1,6 +1,6 @@
 ## CourseCareers — Information Technology
 
-Hi, I’m **Nick**, an **Information Technology Specialist** 
+Hi, I’m **Nick**, an **Information Technology Professional** 
 
 ### 📂 Repositories
 - 🔧 **IT Support Capabilities**  
